@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose 앱의 윈도우 기본 테마 (Compose 로딩 전 배경). -->
+    <style name="Theme.Dreamlog" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

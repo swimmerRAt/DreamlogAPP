@@ -1,3 +1,7 @@
+# Project-local Android SDK / AVD / 에뮬레이터 사용자 홈 (대용량 - git에 올리지 않음)
+android-sdk/
+.android/
+
 # Gradle files
 .gradle/
 build/
